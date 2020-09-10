@@ -1,16 +1,12 @@
-### 웃대 프로젝트
+### 롤 전적 검색
 
 #### 환경
 
-- front : react
-
 - server : spring boot
-
-- db : maria db
-
-- 기획 : 커뮤니티사이트
 
 #### 진행상황
 
 - 2020.09.09 
     - repository, 프로젝트 생성
+- 2020.09.10
+    - riot devleoper로부터 api key 발급
